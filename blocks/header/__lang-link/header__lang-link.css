@@ -3,12 +3,7 @@
   line-height: 28px;
   text-decoration: none;
   color: #ffffff;
-  margin-right: 18px;
   transition: opacity 0.2s linear;
-}
-
-.header__lang-link:last-child {
-  margin: 0;
 }
 
 .header__lang-link:hover {
